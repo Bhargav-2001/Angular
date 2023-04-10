@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Slideshow</title>
+    
+
+  </head>
+
+  <body>
+    <center>
+        
+
+        <img id="slideshow" src="firr.jpg" width="500" height="500">
+
+   
+        <script>
+
+            var images = ["firr.jpg", "sec.jpg", "third.jpg", "fourth.jpg","fifth.jpg","sixth.jpg","seventh.jpg","eighth.jpg","ninth.jpg","11.jpg"];
+            var currentIndex = 0;
+            var slideshow = document.getElementById("slideshow");
+
+     
+            setInterval(function() {
+
+                slideshow.src = images[currentIndex];
+                currentIndex = (currentIndex + 1) % images.length;
+      }, 2000);
+    </script>
+    </center>
+  </body>
+</html>

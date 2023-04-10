@@ -1,0 +1,135 @@
+body{
+		    
+  background-color:aquamarine;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  
+}
+  /* Hide the content by default */
+#content {
+display: none;
+}
+
+/* Show the content when the URL's fragment identifier is #show */
+#show:target #content {
+display: block;
+}
+
+.show-form-button {
+display: inline-block;
+background-color: #4CAF50;
+color: white;
+padding: 10px;
+border: none;
+border-radius: 5px;
+font-size: 16px;
+cursor: pointer;
+}
+
+.show-form-button:hover {
+background-color: #3e8e41;
+}
+
+/* Hide the button when the #show section is displayed */
+#show:target .show-form-button {
+display: none;
+}
+form {
+  display: none;
+}
+#show-form:checked ~ form {
+  display: block;
+}
+/* hide the button by default */
+
+
+/* show the button when the form is visible */
+
+
+/* change the color of the button on hover */
+#show.active .close-form-button:hover {
+  color: rgb(0, 255, 38);
+}
+.container1 {
+  
+  border: 3px solid #f1f2f2;
+  
+  border-radius:25px;
+  
+   width:410px;
+  
+  height:500px;
+  
+  margin: 25px;
+  
+   padding: 30px;
+  
+   background-color: #49bab9;
+  
+  box-shadow: 10px 5px 5px #142525;
+  
+  }
+  
+  .container1.text{
+  
+  font-size:35px;
+  
+ font-weight:600;
+  
+  text-align:center;
+  
+  
+  
+  
+  }
+  
+  .container1.form{
+  
+  margin-top:-20px;
+  
+  }
+  
+  .container1.form.data
+  
+  {
+  
+  height:45px;
+  
+  width:100%;
+  
+  margin:40px 0;
+  
+  }
+  
+  form.data label{
+  
+ font-size:18px;
+  
+  }
+  
+  form.data input{
+  
+  height:100%;
+  
+  width:100%;
+  
+  padding-left:10px;
+  
+  font-size:17px;
+  
+  border:1px solid lightgrey;
+  
+  }
+  .fire{
+    position: relative;
+    padding-left: 399px;
+    font-size: 30px;
+  
+  
+    right:25px;
+    bottom: 457px;
+    
+  }
