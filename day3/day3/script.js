@@ -1,4 +1,4 @@
-let countdown = 3;
+let countdown = 30;
 let countdownInterval;
 
 function updateTimer() {
