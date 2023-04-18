@@ -2,9 +2,11 @@ let countdown = 30;
 let countdownInterval;
 
 function updateTimer() {
+  countdown--;
+  
   document.getElementById("timer").innerHTML = countdown;
   
-  if (countdown === 0) {
+  if (countdown == 0) {
     clearInterval(countdownInterval);
     displayGif();
   } else {
