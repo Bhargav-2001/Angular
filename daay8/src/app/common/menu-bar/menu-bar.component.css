@@ -1,0 +1,46 @@
+.title{
+    font-family:"ariel";
+    font-size:"27px";
+
+ color:black;
+
+
+
+}
+
+li{
+
+ float:left;
+
+ margin-left:10px;
+
+ margin-right:20px;
+
+ list-style-type: none;
+
+}
+
+a{
+
+ color:green;
+
+ font-size: 20px;
+
+}
+
+a:hover{
+
+ color: blueviolet;
+
+}
+
+.menu-bar{
+
+ background-color:skyblue ;
+
+ padding-left:440px;
+
+
+
+
+}
