@@ -1,0 +1,5 @@
+
+<select [(ngModel)]="selected">
+    <option *ngFor="let x of types">{{x}}</option>
+</select><br/>
+<app-feedback-box *ngFor="let x of feedbacks | typefilter:selected" [feedback]="x"></app-feedback-box>
