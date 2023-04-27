@@ -1,11 +1,11 @@
 .first_bar{
     width: 50%;
     height: 20%;
-    background-color: rgb(227, 233, 230);
+    background-color:lightgreen;
     margin-top: 15px;
     position: relative;
     left: 300px;
-    box-shadow: 10px 10px lightblue;
+    box-shadow: 7px 7px black;
     border-style:solid ;
     border-radius: 20px;
 } 

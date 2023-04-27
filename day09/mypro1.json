@@ -198,55 +198,5 @@
       "type": "Market Analysis",
       "message": "Market analysis is best done here"
     }
-  ],
-  "products":[
-    {
-      "id": 1,
-      "name": "Iron box",
-      "price": 450,
-      "image": "ironbox.jpg",
-      "type": "Electronic",
-      "description": "An Iron box is an electrical appliance used to pressthe wrinkles out of clothing and to make them look neat and crisp."
-    },
-    {
-      "id": 2,
-      "name": "Covergirl",
-      "price": 199,
-      "image": "covergirl.jpg",
-      "type": "Cosmetics",
-      "description": "Covergirl is a makeup and cosmetic brand that offers a range of beauty products, including foundations, concealers, eyeshadows, lipsticks, and more."
-    },
-    {
-      "id": 3,
-      "name": "Bread",
-      "price": 59,
-      "image": "bread.jpg",
-      "type": "Groceries",
-      "description": "Bread is a staple food made from a dough of flour, water,yeast, and salt that is typically baked in an oven. "
-    },
-    {
-      "id": 4,
-      "name": "Rice Cooker",
-      "price": 1150,
-      "image": "cooker.jpg",
-      "type": "Electronic",
-      "description": "A rice cooker is an electrical appliance used to cook rice automatically.It consists of an inner cooking pot, a heating element, and a thermostat that controls the temperature and cooking time."
-    },
-    {
-      "id": 5,
-      "name": "Mac Cosmetics",
-      "price": 3300,
-      "image": "Maccosm.jpg",
-      "type": "Cosmetics",
-      "description": "MAC Cosmetics is a makeup and cosmetic brand known for its high-quality,professional-grade products."
-    },
-    {
-      "id": 6,
-      "name": "Apples",
-      "price": 199,
-      "image": "apple.jpg",
-      "type": "Groceries",
-      "description": "Apples are a popular fruit that can be eaten raw, cooked, or used in baking, and they are a good source of fiber, vitamins, and antioxidants."
-    }
   ]
 }
