@@ -1,0 +1,24 @@
+.header{
+    background-color:bisque;
+    padding: 20px;
+}
+span{
+    font-size: 25px;
+    font-family: Georgia;
+    padding-left: 15px;
+}
+
+p{
+    padding: 5px;
+    font-size: large;
+    text-align: center;
+}
+
+button{
+
+    
+    margin-left: 900px;
+    
+}
+
+
