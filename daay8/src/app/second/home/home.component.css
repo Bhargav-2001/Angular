@@ -1,30 +1,30 @@
 #homeContainer{
 
-     width:100%;
-    
-     padding-top:200px;
-    
-     text-align: center;
-    
-     background-color: black;
-    
-     background-size: cover;
-    
-     height:500px;
-    
-    }
-    
-    p{
-    
-     font-family:"Roboto";
-    
-     font-style:italic;
-    
-     font-size:26px;
-    
-     font-weight:bold;
-    
-    
-    
-    
-    }
+    width:100%;
+   
+    padding-top:200px;
+   
+    text-align: center;
+   
+    background-color: black;
+   
+    background-size: cover;
+   
+    height:500px;
+   
+   }
+   
+   p{
+   
+    font-family:"Roboto";
+   
+    font-style:italic;
+   
+    font-size:26px;
+   
+    font-weight:bold;
+   
+   
+   
+   
+   }
