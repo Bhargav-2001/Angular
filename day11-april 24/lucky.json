@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "price": 999,
+      "image": "iphone-12.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clinique Moisture Surge",
+      "price": 39,
+      "image": "clinique-moisture-surge.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Max 2090",
+      "price": 150,
+      "image": "nike-air-max-2090.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 4,
+      "name": "The Alchemist",
+      "price": 10,
+      "image": "the-alchemist.jpg",
+      "type": "books"
+    },
+    {
+      "id": 5,
+      "name": "Fresh Strawberries",
+      "price": 5,
+      "image": "fresh-strawberries.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 6,
+      "name": "Fitbit Charge 5",
+      "price": 179,
+      "image": "fitbit-charge-5.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 7,
+      "name": "L'Oreal Paris Voluminous Mascara",
+      "price": 9,
+      "image": "loreal-voluminous-mascara.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 8,
+      "name": "Yoga Mat",
+      "price": 30,
+      "image": "yoga-mat.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 9,
+      "name": "To Kill a Mockingbird",
+      "price": 12,
+      "image": "mockingbird.jpg",
+      "type": "books"
+    },
+    {
+      "id": 10,
+      "name": "Organic Avocado",
+      "price": 2,
+      "image": "organic-avocado.jpg",
+      "type": "groceries"
+    },
+    {
+      "id": 11,
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "image": "sony-wh-1000xm4.jpg",
+      "type": "electronics"
+    },
+    {
+      "id": 12,
+      "name": "Maybelline Instant Age Rewind Concealer",
+      "price": 8,
+      "image": "rewind.jpg",
+      "type": "cosmetics"
+    },
+    {
+      "id": 13,
+      "name": "Resistance Bands",
+      "price": 15,
+      "image": "resistance-bands.jpg",
+      "type": "exercise"
+    },
+    {
+      "id": 14,
+      "name": "The Great Gatsby",
+      "price": 8,
+      "image": "the-great-gatsby.jpg",
+      "type":"books"
+	}
+	]
+}
